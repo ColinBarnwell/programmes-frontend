@@ -3,6 +3,7 @@ parameters:
         logos:
             filetypes:
                 svg: [
+                    "bbc_radio_one_dance",
                     "bbc_radio_berkshire",
                     "bbc_three_counties_radio",
                     "bbc_radio_cumbria",
